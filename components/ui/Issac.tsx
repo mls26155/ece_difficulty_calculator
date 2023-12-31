@@ -28,7 +28,7 @@ const Issac = () => {
                 <div className="p-2 p-y-0">
                   <h2 className="scroll-m-20 text-xl font-semibold tracking-tight m-2">Difficulty Level</h2>
                   <h1 className="text-red-600 text-4xl font-extrabold m-2 my-3">6/10</h1>
-                  <p className="italic text-sm m-2 my-3">"You've got this kid. Just don't get Vivado'd..." -Issac Putla</p>
+                  <p className="italic text-sm m-2 my-3">&quot;You&apos;ve got this kid. Just don&apos;t get Vivadod...&apos; -Issac Putla</p>
                 </div>
               </div>
             </CardHeader>

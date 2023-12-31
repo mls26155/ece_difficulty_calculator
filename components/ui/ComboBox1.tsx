@@ -411,7 +411,7 @@ export function ComboboxDemoForm() {
                 </PopoverContent>
               </Popover>
               <FormDescription>
-                Select 'NONE' if you are not taking additional classes.
+                Select &quot;NONE&quot; if you are not taking additional classes.
               </FormDescription>
               <FormMessage />
               </FormItem>

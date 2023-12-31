@@ -28,7 +28,7 @@ const Berry = () => {
                 <div className="p-2 p-y-0">
                   <h2 className="scroll-m-20 text-xl font-semibold tracking-tight m-2">Difficulty Level</h2>
                   <h1 className="text-red-600 text-4xl font-extrabold m-2 my-3">10/10</h1>
-                  <p className="italic text-sm m-2 my-3">"God bless you..." -Dr. Berry</p>
+                  <p className="italic text-sm m-2 my-3">&quot;God bless you...&quot; -Dr. Berry</p>
                 </div>
               </div>
             </CardHeader>
